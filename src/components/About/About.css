@@ -1,0 +1,27 @@
+.about {
+    display: flex;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-info {
+    width: 30vw;
+    margin: 24px;
+}
+
+.about img {
+    width: 20vw;
+    height: auto;
+    border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.about h1 {
+    font-size: 50px;
+}
+
+.about p {
+    text-align: justify;
+}

@@ -1,0 +1,25 @@
+.contact {
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact-options {
+    display: flex;
+}
+
+.option {
+    text-align: center;
+    margin: 0 10vw 0 10vw;
+}
+
+.option p {
+    color: darkgray;
+}
+
+.contact h1 {
+    font-size: 50px;
+    margin-bottom: 8vh;
+}

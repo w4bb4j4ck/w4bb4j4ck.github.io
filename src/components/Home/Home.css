@@ -1,0 +1,15 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+    background-image: url(/images/background1.jpg);
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    color: whitesmoke;
+}
+
+.home-info {
+    text-shadow: 2px 2px black;
+    text-align: center;
+}

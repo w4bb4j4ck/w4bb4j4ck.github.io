@@ -1,0 +1,28 @@
+footer {
+    height: 8vh;
+    background-color: #273746;
+    color: whitesmoke;
+}
+
+.social-media {
+    display: flex;
+}
+
+.social-icon {
+    margin: 12px;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+footer a {
+    color: whitesmoke;
+}

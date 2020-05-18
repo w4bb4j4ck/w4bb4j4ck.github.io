@@ -1,0 +1,29 @@
+.nav {
+    display: flex;
+    width: 100vw;
+    height: 12vh;
+    justify-content: space-between;
+    align-items: center;
+    background-color: crimson;
+}
+
+.nav a {
+    color: whitesmoke;
+}
+
+.nav-home {
+    margin: 0 0 2vh 3vw;
+    font-size: x-large;
+    /* font-family: 'Philosopher', sans-serif; */
+    font-family: 'Uncial Antiqua', cursive;
+}
+
+.nav-links {
+    display: flex;
+    margin-right: 2vw;
+    font-size: large;
+}
+
+h5 {
+    margin: 6px;
+}
